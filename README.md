@@ -11,7 +11,7 @@ The goal of our model is to identify the articles that are agricultural related.
 
 ### The models
 The fastai language model we used was prebuilt by fastai and is a recurrent neural network (RNN), more specifically a long-short term memory network (LSTM) inspired by https://arxiv.org/abs/1708.02182. When training the lanuage model and classifier we used all of fastai's default parameters. fastai's has a unique tokenization that invloves token that are more than just words, like captializations and beginnings of texts. 
-
+<br />
 We created four different models in pytorch. All of which were different version of RNNs, two of which were LSTMs. We used our own tokenization process and created our our hyperparameters to improve performance. 
 
 ### Interesting notes/problems
