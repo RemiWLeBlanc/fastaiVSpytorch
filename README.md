@@ -36,3 +36,6 @@ Because fastai uses pytroch under the hood, it might be interesting to compare f
 <br />
 <br />
 We learned a lot from this project about pytorch and fastai, as well as NLP and RNNs and LSTMS in general. We feel we are stronger data scientists as a result of this project. We hope you could learn something too!
+<br />
+<br />
+** Note: full data set and saved fastai models were too large to put on github
